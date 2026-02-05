@@ -1,0 +1,57 @@
+
+import { Language } from '../types';
+
+export const roadIdsTranslations = {
+  [Language.ES]: {
+    subtitle: 'Gestión y Estandarización de Cajetines Viales',
+    networkLevel: 'Nivel de Red',
+    communities: 'Comunidades Autónomas',
+    catalog: 'Catálogo de Vías',
+    provinces: 'Provincias',
+    reset: 'Reset',
+    searchPlaceholder: 'Buscar por matrícula...',
+    noResults: 'Sin resultados',
+    scale: 'Escala',
+    techSheet: 'Ficha Técnica de Diseño',
+    background: 'Fondo',
+    border: 'Borde',
+    text: 'Texto',
+    borderSize: 'Tamaño Borde',
+    radius: 'Radio (Corner)',
+    textSize: 'Tamaño Texto',
+    padding: 'Padding (1.5xB)',
+    typography: 'Tipografía Principal',
+    plateLength: 'Longitud Matrícula',
+    characters: 'caracteres',
+    pictogramMadrid: 'Pictograma Madrid',
+    activated: 'Activado',
+    deactivated: 'Desactivado',
+    visualCalibration: 'Visualización Proporcional Calibrada'
+  },
+  [Language.EN]: {
+    subtitle: 'Road Sign Management and Standardization',
+    networkLevel: 'Network Level',
+    communities: 'Autonomous Communities',
+    catalog: 'Road Catalog',
+    provinces: 'Provinces',
+    reset: 'Reset',
+    searchPlaceholder: 'Search by plate...',
+    noResults: 'No results found',
+    scale: 'Scale',
+    techSheet: 'Technical Design Sheet',
+    background: 'Background',
+    border: 'Border',
+    text: 'Text',
+    borderSize: 'Border Size',
+    radius: 'Radius (Corner)',
+    textSize: 'Text Size',
+    padding: 'Padding (1.5xB)',
+    typography: 'Main Typography',
+    plateLength: 'Plate Length',
+    characters: 'characters',
+    pictogramMadrid: 'Madrid Pictogram',
+    activated: 'Activated',
+    deactivated: 'Deactivated',
+    visualCalibration: 'Calibrated Proportional Visualization'
+  }
+};

@@ -1,0 +1,5 @@
+{
+  "name": "Identificadores de Carreteras Españolas",
+  "description": "Una herramienta interactiva para visualizar y documentar los cajetines de identificación de las carreteras de España, con soporte para todas las redes y sistemas de color.",
+  "requestFramePermissions": []
+}
